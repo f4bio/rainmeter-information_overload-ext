@@ -100,7 +100,7 @@ HDD0-Write-Rate=0x8000001
 ; HDD1 S.M.A.R.T.
 ;===== Required Data =====
 HDD1-SMART-SensorID=0xf0000100
-HDD1-SMART-SensorInstance=0x5
+HDD1-SMART-SensorInstance=0x2
 ;===== S.M.A.R.T. Stats =====
 HDD1-Temp=0x1000000
 HDD1-Drive-Fail=0x8000000
@@ -109,7 +109,7 @@ HDD1-Drive-Warning=0x8000001
 ; HDD1
 ;===== Required Data =====
 HDD1-SensorID=0xf0000101
-HDD1-SensorInstance=0x0
+HDD1-SensorInstance=0x2
 ;===== Stats =====
 HDD1-Read-Per=0x7000000
 HDD1-Write-Per=0x7000001
