@@ -79,17 +79,17 @@ GPU0-PCIe-Speed=0x800003f
 
 ; HDD0 S.M.A.R.T.
 ;===== Required Data =====
-;HDD0-SMART-SensorID=0xf0000100
-;HDD0-SMART-SensorInstance=0x5
+HDD0-SMART-SensorID=0xf0000100
+HDD0-SMART-SensorInstance=0x1
 ;===== S.M.A.R.T. Stats =====
-;HDD0-Temp=0x1000000
-;HDD0-Drive-Fail=0x8000000
-;HDD0-Drive-Warning=0x8000001
+HDD0-Temp=0x1000001
+HDD0-Drive-Fail=0x8000000
+HDD0-Drive-Warning=0x8000001
 
 ; HDD 0
 ;===== Required Data =====
 HDD0-SensorID=0xf0000101
-HDD0-SensorInstance=0x0
+HDD0-SensorInstance=0x1
 ;===== Stats =====
 HDD0-Read-Per=0x7000000
 HDD0-Write-Per=0x7000001
