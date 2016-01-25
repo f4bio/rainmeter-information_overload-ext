@@ -60,7 +60,7 @@ System-Ram-Load=0x8000005
 ; Dedicated GPU
 ;===== Required Data =====
 GPU0-SensorID=0xe0002000
-GPU0-SensorInstance=0x14
+GPU0-SensorInstance=0x0
 ;===== Stats =====
 GPU0-Temp=0x1000000
 GPU0-Volt=0x2000000
