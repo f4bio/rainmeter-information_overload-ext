@@ -1,0 +1,5 @@
+[Variables]
+BarUsed=71BCD2
+BarTotal=225,225,225,35
+FCN=255,255,255,255
+FCT=71BCD2
