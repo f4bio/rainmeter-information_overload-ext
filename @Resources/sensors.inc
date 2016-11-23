@@ -1,12 +1,4 @@
 [Variables]
-BarUsed=71BCD2
-BarTotal=225,225,225,35
-FCN=255,255,255,255
-FCT=71BCD2
-Font=Hack
-FS1=7
-FS2=9
-FS3=11
 ; CPU #0
 ;===== Required Data =====
 CPU0-SensorID=0xf0000300
